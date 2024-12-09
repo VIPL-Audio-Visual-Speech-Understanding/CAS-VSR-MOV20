@@ -23,9 +23,11 @@ The dataset is organized into the following structure:
 ```
 MOV20/
 ├── lip_imgs_96/
-│   ├── 0a1d7435e35b8ef09d8ca7cb33520519.zip
-│   ├── 0a4bdfb250b1b1a071b1a778486391c2.zip
-│   ├── ...
+│   ├── val
+│   │   ├── 0a4bdfb250b1b1a071b1a778486391c2.zip
+│   │   ├── 0a9bde947751e803d29ed52e012b00b4.zip
+│   │   ├── ...
+│   ├── test
 ├── manifest/
 │   ├── mov20_id_test.csv #  file_id for test set
 │   ├── mov20_id_val.csv #  file_id for val set
