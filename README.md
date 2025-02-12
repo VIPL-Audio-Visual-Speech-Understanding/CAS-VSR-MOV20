@@ -1,4 +1,4 @@
-# MOV20
+# CAS-VSR-MOV20
 
 ![dataset](./pic/dataset.png)
 
@@ -12,16 +12,16 @@ The video clips of each speech are provided in the format of visual frames, whic
 
 ## Dataset Split
 
-Approximately one hour of evaluation data was provided, with half used as MOV20-Val for preliminary validation and the other half as MOV20-Test for the final validation. 
+Approximately one hour of evaluation data was provided, with half used as CAS-VSR-MOV20-Val for preliminary validation and the other half as CAS-VSR-MOV20-Test for the final validation. 
 
-Specifically, MOV20 includes a total of 2655 samples, with 1335 samples in the validation set and 1320 samples in the test set.
+Specifically, CAS-VSR-MOV20 includes a total of 2655 samples, with 1335 samples in the validation set and 1320 samples in the test set.
 
 ## File Structure and Contents
 
 The dataset is organized into the following structure:
 
 ```
-MOV20/
+CAS-VSR-MOV20/
 ├── lip_imgs_96/
 │   ├── val
 │   │   ├── 0a4bdfb250b1b1a071b1a778486391c2.zip
@@ -35,4 +35,4 @@ MOV20/
 
 ## Accessing the Dataset
 
-To access the MOV20 dataset, please scan the signed agreement [here](https://github.com/Physicsmile/MOV20/blob/main/MOV20-Release%20Agreement.pdf) and send it to [lipreading@vipl.ict.ac.cn](mailto:lipreading@vipl.ict.ac.cn). **Please note that the dataset is only available to universities and research institutes for research purposes only.** Note that the agreement should be signed by **a full-time staff member (usually your tutor).**  Sharing the dataset with others is **not allowed** under the terms of the agreement.
+To access the CAS-VSR-MOV20 dataset, please scan the signed agreement [here](https://github.com/Physicsmile/MOV20/blob/main/MOV20-Release%20Agreement.pdf) and send it to [lipreading@vipl.ict.ac.cn](mailto:lipreading@vipl.ict.ac.cn). **Please note that the dataset is only available to universities and research institutes for research purposes only.** Note that the agreement should be signed by **a full-time staff member (usually your tutor).**  Sharing the dataset with others is **not allowed** under the terms of the agreement.
