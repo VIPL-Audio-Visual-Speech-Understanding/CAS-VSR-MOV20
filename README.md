@@ -1,6 +1,6 @@
 # CAS-VSR-MOV20
 
-![dataset](./pic/dataset.png)
+![samples](./pic/samples.gif)
 
 ## Introduction
 
