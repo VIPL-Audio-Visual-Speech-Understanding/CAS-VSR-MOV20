@@ -4,7 +4,7 @@
 
 ## Introduction
 
-The dataset consists of video clips sourced from publicly available platforms such as YouTube, specifically from 20 movies.
+The dataset consists of video clips sourced from publicly available platforms such as YouTube and movies.
 
 Each segment is no longer than 3 minutes and covers a variety of visual and speaking conditions, including diverse lighting environments, different resolutions, and significant variations in pose, as shown above.
 
