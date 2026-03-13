@@ -36,3 +36,10 @@ CAS-VSR-MOV20/
 ## Accessing the Dataset
 
 To access the CAS-VSR-MOV20 dataset, please scan the signed agreement [here](https://github.com/Physicsmile/MOV20/blob/main/MOV20-Release%20Agreement.pdf) and send it to [lipreading@vipl.ict.ac.cn](mailto:lipreading@vipl.ict.ac.cn). **Please note that the dataset is only available to universities and research institutes for research purposes only.** Note that the agreement should be signed by **a full-time staff member (usually your tutor).**  Sharing the dataset with others is **not allowed** under the terms of the agreement.
+
+## Related Projects
+[CAS-VSR-W1k (LRW-1000): The first in-the-wild Mandarian lip-reading dataset](https://github.com/VIPL-Audio-Visual-Speech-Understanding/LRW1000--CAS-VSR-W1k)
+
+[CAS-VSR-S68: A sentence-level audio-visual speech dataset for speaker-adaptive lip-reading](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S68)
+
+[CAS-VSR-S101: A wild sentence-level audio-visual speech dataset ](https://github.com/VIPL-Audio-Visual-Speech-Understanding/CAS-VSR-S101)
